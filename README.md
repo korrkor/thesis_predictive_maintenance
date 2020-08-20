@@ -1,1 +1,2 @@
-# thesis_predictive_maintenance
+# predictive_maintenance
+Masters thesis on predictive modelling
